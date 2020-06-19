@@ -70,9 +70,9 @@ received: Hello 0 from topic hello
 
 Now it works even with a wildcard.
 
-If you change the version from ```2.0.3``` to ```2.0.4``` it fails.
+If you change the version from ```2.0.2``` to ```2.0.3``` it fails.
 
-**So the problem must have been introduced in ```2.0.4```.**
+**So the problem must have been introduced in ```2.0.3```.**
 
 
 ## Cleanup
